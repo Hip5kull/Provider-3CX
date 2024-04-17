@@ -21,11 +21,11 @@ sudo apt install wget
 ```
 
 ```sh
-wget https://github.com/Hip5kull/Provider-3CX/blob/master/provider3cx.sh && chmod +x provider3cx.sh && sudo bash provider3cx.sh
+wget https://raw.githubusercontent.com/Hip5kull/Provider-3CX/master/provider3cx.sh && chmod +x provider3cx.sh && sudo bash provider3cx.sh
 ```
 
 ```sh
-curl -O http://github.com/Hip5kull/Provider-3CX/blob/master/provider3cx.sh && chmod +x provider3cx.sh && sudo bash provider3cx.sh
+curl -O https://raw.githubusercontent.com/Hip5kull/Provider-3CX/master/provider3cx.sh && chmod +x provider3cx.sh && sudo bash provider3cx.sh
 ```
 Then simply enter the file name, company name and trunk server link.
 
